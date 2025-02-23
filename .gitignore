@@ -1,0 +1,10 @@
+.venv/
+.vscode/
+.pytest_cache/
+__pycache__/
+.coverage
+test.ipynb
+data/*
+wavFiles/*
+models/*
+
